@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Classes>
+  <Class Name="Animal" Comment="Abstract" />
+  <Class Name="Cow" Comment="cow" />
+  <Class Name="Lion" Comment="lion" />
+  <Class Name="Pig" Comment="pig" />
+  <Class Name="commentAttribute" Comment="defaultComment" />
+</Classes>
